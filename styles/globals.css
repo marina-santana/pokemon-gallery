@@ -14,6 +14,13 @@ a {
   font-family: 'Poppins', sans-serif;
 }
 
+@media (max-width: 720px) {
+	.img-character {
+    position: absolute;
+    top: 55px;
+	}
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

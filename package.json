@@ -1,6 +1,6 @@
 {
-  "name": "pokemon-catalog",
-  "version": "0.1.0",
+  "name": "pokemon-gallery",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
